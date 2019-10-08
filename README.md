@@ -231,6 +231,9 @@ Private Internet Access is a personal virtual private network service. It suppor
 ## PrivateTunnel									
 
 ## PrivateVPN									
+PrivateVPN is an affordable service with an excellent reputation. It manages a compact network of 150+ self-owned servers in 59 countries at more than 80 different locations.
+
+This Sweden-based provider is committed to ensuring its users’ privacy and security. Although subject to 14-Eyes jurisdiction, PrivateVPN can’t turn over your data as it doesn’t log any. The simple, easy-to-use apps come with AES-256 encryption and support for multiple protocols, including industry standard OpenVPN.
 
 ## ProtonVPN									
 ProtonVPN is a virtual private network service provider operated by the Swiss company ProtonVPN AG. The company is a subsidiary of Proton Technologies AG, the company behind the email service ProtonMail.
@@ -250,8 +253,10 @@ ProtonVPN is a virtual private network service provider operated by the Swiss co
 ## RootVPN									
 
 ## SaferVPN									
+SaferVPN offers several protocols such as IKEv, PPTP, L2TP, and OpenVPN. While PPTP is great for streaming videos, OpenVPN is good if you need the best security. The prices of SaferVPN are on the cheap side. A two-year package is super cheap, and they also run discounts from time to time.
 
 ## SecureVPN.com									
+SecureVPN claims to provide a VPN service that helps you surf the web anonymously, unblock websites and VoIP services, and secure any Wi-Fi hotspot. However,  we cannot guarantee that this VPN is legitimate.
 
 ## SecureVPN.to									
 
@@ -286,6 +291,7 @@ ProtonVPN is a virtual private network service provider operated by the Swiss co
 ## SurfEasy									
 
 ## Surfshark									
+Surfshark is a relatively new VPN service, but it’s already making a name for itself. As a new provider, Surfshark offers a very rare bonus – unlimited simultaneous connections. If you want to protect your whole family (or use lots of devices yourself), you won’t find a better deal.
 
 ## SwitchVPN									
 
@@ -304,6 +310,7 @@ ProtonVPN is a virtual private network service provider operated by the Swiss co
 ## Traceless.me									
 
 ## Trust.Zone									
+Trust.Zone has pretty much everything most VPN users are looking for: A helpful website, user-friendly apps, and the ability to bypass Netflix geo-blocks.
 
 ## TunnelBear									
 TunnelBear is a public virtual private network service based in Toronto, Canada. The company was founded by Daniel Kaldor and Ryan Dochuk in 2011. In March 2018, TunnelBear was acquired by McAfee.
