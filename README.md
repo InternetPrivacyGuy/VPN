@@ -16,23 +16,23 @@ Anonine private VPN service will encrypt your Internet connection through our VP
 ## AnonVPN
 AnonVPN is a zero log VPN service which accepts anonymous payment with a voucher code payment system. It allows worldwide connections to help access geo-restricted websites and content.
 
-## Anonymizer
-
+## Anonymize VPN
+Anonymize VPN was built on OpenVPN and allows you to connect more securely to the internet. It's free version includes AES-256 encryption, IPv6 leak protection, WebRTC protection, DNS leak protection and unlimited bandwidth. Anonymize VPN's paid version includes up to 8 connections and includes Tor integration.
 
 ## AnonymousVPN
-
+AnonymousVPN keeps no logs whatsoever, offers high-speed connections and has unlimited bandwidth. It can be installed on Windows, mac and Android.
 
 ## Astrill
-
+Astrill VPN app provides secure VPN connection using military grade encryption based on OpenVPN and OpenWeb protocols. Its free plan is available in Europe and North America and it allows you to connect one device to Astrill VPN for free.
 
 ## Avast Secureline
-
+Avast SecureLine VPN is a subscription based virtual private network service developed by Avast. It is available for Android, Microsoft Windows, macOS and iOS operating systems. SecureLine VPN encrypts the user's internet traffic and redirects the traffic through a tunnel via Avast data centers.
 
 ## Avira Phantom VPN
-
+Avira Phantom VPN masks your real IP address to make you look like you’re somewhere (and someone) else. This makes it much harder for advertisers to track you across websites, prevents your Internet Service Provider from seeing which websites you access, and prevents your private data from being collected and exploited.
 
 ## AzireVPN
-
+AzireVPN doesn’t keep any logs. This means that they have no data to provide, even if they are saddled with a court order. In addition, all of the ports are open and there is no censorship since there are no ISP restrictions. You can visit the sites and services you want without worry, and while being anonymous. They offer the best encryption available with TLS auth and AES-256, as well as full IPv6 support.
 
 ## BeeVPN
 
