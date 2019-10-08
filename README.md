@@ -35,28 +35,37 @@ Avira Phantom VPN masks your real IP address to make you look like you’re some
 AzireVPN doesn’t keep any logs. This means that they have no data to provide, even if they are saddled with a court order. In addition, all of the ports are open and there is no censorship since there are no ISP restrictions. You can visit the sites and services you want without worry, and while being anonymous. They offer the best encryption available with TLS auth and AES-256, as well as full IPv6 support.
 
 ## BeeVPN
+BeeVPN is a solid option for anyone looking for VPN protection on devices beyond computers and smartphones. With BeeVPN you can secure your connection from devices like tablets, gaming consoles AppleTV and your router.
 
 ## Betternet
+Betternet is a free VPN service which can help protect you from online scames and malware threats. It's available for Windows, Mac OS, iOS, Chrome and Android.
 
 ## BlackVPN
-
-## Blockless
+BlackVPN allows up to seven simultaneous connections. It allows users to connect with OpenVPN using UDP, TCP and SSL. BlackVPN gives users unlimited bandwidth and server switches.
 
 ## BolehVPN
+BolehVPN is a provider which offers perfect forward secrecy and uses SHA-2 hashing with AES-256 encryption. It operates under a strict no log policy.
 
 ## Boxpn
 
+
 ## BTGuard
+
 
 ## Buffered
 
+
 ## CactusVPN
+CactusVPN helps protect your identity and IP address online. It can help bypass censorship in certain countries, or at your workplace or school. Its "Smart DNS" allows you to access over 300 geo-restricted websites without any speed loss.
 
 ## Celo
 
+
 ## ChillGlobal
 
+
 ## CitizenVPN
+
 
 ## CloakVPN
 The Cloak app automatically creates a VPN connection when the device uses an untrusted Wi-Fi network. The users can define what Wi-Fi networks are trusted and which ones are not. Cloak creates a trusted connection between the users' devices and Cloak's cloud servers, encrypting the data transmitted. Cloak thereby creates a Virtual Private Network, protecting its users' privacy and security. Cloak IPSec and OpenVPN security protocols, with custom-generated 2048-bit DH group and 1536-bit DH group encryption.
@@ -66,6 +75,7 @@ The Cloak app automatically creates a VPN connection when the device uses an unt
 ## CryptoHippie
 
 ## CryptoStorm
+
 
 ## CyberGhost
 CyberGhost is a software company that provides a virtual private network (VPN) for web browsing. It offer users online privacy and internet traffic security. The company is headquartered in Bucharest, Romania. In 2017, it was acquired by Kape Technologies PLC.
@@ -83,6 +93,7 @@ CyberGhost is a software company that provides a virtual private network (VPN) f
 ## Doublehop
 
 ## EarthVPN
+EarthVPN allows users to connect via 54 different countries and 190 unique IP locations. It's a cheap VPN compared to most others in this list.
 
 ## Encrypt.me
 
@@ -112,6 +123,7 @@ ExpressVPN is a virtual private network service offered by the British Virgin Is
 ## GetFlix
 
 ## GhostPath
+
 
 ## GooseVPN
 
@@ -168,7 +180,8 @@ IPVanish VPN is a commercial VPN service based in the United States. While provi
 
 ## IVPN
 
-## KeepSolid VPN Unlimited									
+## KeepSolid VPN Unlimited
+KeepSolid VPN Unlimited is a fast, affordable and reliable VPN service. 
 
 ## Kepard									
 
@@ -245,6 +258,7 @@ ProtonVPN is a virtual private network service provider operated by the Swiss co
 ## PRQ									
 
 ## PureVPN									
+PureVPN is a commercial virtual private network service owned by GZ Systems Ltd. Founded in 2007, the company is based in Hong Kong. The service has been criticized for having inconsistent speeds, being unable to access Netflix videos, and having usability problems.
 
 ## RA4W VPN									
 
@@ -337,29 +351,42 @@ TunnelBear is a public virtual private network service based in Toronto, Canada.
 
 ## VIP72									
 
+
 ## Virtual Shield									
+
 
 ## VPN Gate									
 
+
 ## VPN Land									
+
 
 ## VPN Master									
 
+
 ## VPN Shield									
+
 
 ## VPN.ac									
 
+
 ## VPN.Asia									
+
 
 ## VPN.cc									
 
+
 ## VPN.ht									
+
 
 ## VPN.sh									
 
+
 ## VPN4All									
 
+
 ## VPNArea									
+
 
 ## VPNAUS
 
@@ -374,16 +401,16 @@ TunnelBear is a public virtual private network service based in Toronto, Canada.
 
 
 ## VPNSecure
-
+VPNSecure has been around since 2010. It allows you to connect unlimited devices and access any content you're looking for. VPNSecure is affordable and easy to use.
 
 ## VPNShazam
-
+VPNShazam was established in 2009. It's based in Palestine and is owned by an Israeli company. It offers a good selection of tunneling protocols including PPTP, L2TP/IPsec, OpenVPN and IKEv2.
 
 ## VPNTraffic
-
+VpnTraffic creates a virtual private network (VPN) connection between your device and VPN servers.No need to enter server names, All you have to do to set it up is to enter the user name and password. Just open the application and select a server location to connect to. It's that easy.
 
 ## VPNTunnel
-
+VPNTunnel is a rapidly expanding, Swedish-owned Virtual Private Network (VPN) service based in the Seychelles. The company has a particularly strong presence in Europe. However, its server list also includes locations in Latin America. This makes it one of the best services for that region, which is often overlooked by the VPN industry.
 
 ## VPNUK
 VPNUK offer secure VPN services from any worldwide location to fully dedicated, physical servers located in 22 countries around the world. VPNUK currently has VPN servers in over 22 countries. VPNUK offers fast, secure and unmetered tunneling.
