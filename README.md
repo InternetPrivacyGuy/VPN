@@ -59,6 +59,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## CitizenVPN
 
 ## CloakVPN
+The Cloak app automatically creates a VPN connection when the device uses an untrusted Wi-Fi network. The users can define what Wi-Fi networks are trusted and which ones are not. Cloak creates a trusted connection between the users' devices and Cloak's cloud servers, encrypting the data transmitted. Cloak thereby creates a Virtual Private Network, protecting its users' privacy and security. Cloak IPSec and OpenVPN security protocols, with custom-generated 2048-bit DH group and 1536-bit DH group encryption.
 
 ## CrypticVPN
 
@@ -67,6 +68,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## CryptoStorm
 
 ## CyberGhost
+CyberGhost is a software company that provides a virtual private network (VPN) for web browsing. It offer users online privacy and internet traffic security. The company is headquartered in Bucharest, Romania. In 2017, it was acquired by Kape Technologies PLC.
 
 ## DathoVPN
 
@@ -87,6 +89,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## EtherealVPN
 
 ## ExpressVPN
+ExpressVPN is a virtual private network service offered by the British Virgin Islands-registered company Express VPN International Ltd. The software is marketed as a privacy and security tool that encrypts users’ web traffic and masks their IP addresses.
 
 ## Faceless.ME
 
@@ -125,10 +128,12 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## HideIPVON
 
 ## HideMyAss
+HMA VPN is a virtual private network provider founded in 2005 in the United Kingdom. It has been a subsidiary of the Czech cybersecurity company Avast since 2016.
 
 ## Hola!VPN
 
 ## Hotspot Shield
+Hotspot Shield is a public virtual private network service, operated by AnchorFree, Inc. By establishing an encrypted connection with the Hotspot Shield servers, the service protects its users' Internet traffic from eavesdropping.
 
 ## HotVPN
 
@@ -155,6 +160,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## IPredator
 
 ## IPVanish
+IPVanish VPN is a commercial VPN service based in the United States. While providing end-to-end network encryption, IPVanish allows its users to appear in one of more than 75 different loctions.
 
 ## Ironsocket
 
@@ -177,6 +183,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## LiquidVPN									
 
 ## Mullvad									
+Mullvad is a personal virtual private network launched in Sweden in 2008. It accepts anonymous bitcoin payments, is based on OpenVPN client and was an early adopter of the Wireguard protocol.
 
 ## My Expat Network									
 
@@ -195,6 +202,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## NolimitVPN									
 
 ## NordVPN									
+NordVPN is a personal virtual private network service provider. It has desktop applications for Windows, macOS, and Linux, mobile apps for Android and iOS, as well as an application for Android TV. Manual setup is available for wireless routers, NAS devices and other platforms.
 
 ## Norton WiFi Privacy									
 
@@ -213,8 +221,10 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## oVPN.to
 
 ## Perfect Privacy									
+Perfect Privacy is a Switzerland-based VPN with a laundry list of advanced privacy features. Founded back in 2008, they've secured their spot amongst the most robust, high-end Virtual Private Networks on the market right now.
 
 ## Private Internet Access									
+Private Internet Access is a personal virtual private network service. It supports multiple VPN technologies such as PPTP, L2TP/IPsec, SOCKS5 and OpenVPN. In 2018, former Mt. Gox CEO Mark Karpelès was named chief technology officer of PIA's parent company, London Trust Media.
 
 ## PrivatePackets.io									
 
@@ -223,6 +233,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## PrivateVPN									
 
 ## ProtonVPN									
+ProtonVPN is a virtual private network service provider operated by the Swiss company ProtonVPN AG. The company is a subsidiary of Proton Technologies AG, the company behind the email service ProtonMail.
 
 ## ProXPN									
 
@@ -295,6 +306,7 @@ AzireVPN doesn’t keep any logs. This means that they have no data to provide, 
 ## Trust.Zone									
 
 ## TunnelBear									
+TunnelBear is a public virtual private network service based in Toronto, Canada. The company was founded by Daniel Kaldor and Ryan Dochuk in 2011. In March 2018, TunnelBear was acquired by McAfee.
 
 ## Tunnelr									
 
