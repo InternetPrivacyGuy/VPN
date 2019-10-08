@@ -1,4 +1,4 @@
-# List of VPNs
+# The Big List of VPNs
 I've assembled this massive list of VPNs to help people find a VPN that fits their needs. From a privacy standpoint, not all of these VPNs are perfect, so I recommend looking through any of these you're interested in before signing up for the service.
 
 ## AceVPN
@@ -46,202 +46,44 @@ BlackVPN allows up to seven simultaneous connections. It allows users to connect
 ## BolehVPN
 BolehVPN is a provider which offers perfect forward secrecy and uses SHA-2 hashing with AES-256 encryption. It operates under a strict no log policy.
 
-## Boxpn
-
-
-## BTGuard
-
-
-## Buffered
-
-
 ## CactusVPN
 CactusVPN helps protect your identity and IP address online. It can help bypass censorship in certain countries, or at your workplace or school. Its "Smart DNS" allows you to access over 300 geo-restricted websites without any speed loss.
-
-## Celo
-
-
-## ChillGlobal
-
-
-## CitizenVPN
-
 
 ## CloakVPN
 The Cloak app automatically creates a VPN connection when the device uses an untrusted Wi-Fi network. The users can define what Wi-Fi networks are trusted and which ones are not. Cloak creates a trusted connection between the users' devices and Cloak's cloud servers, encrypting the data transmitted. Cloak thereby creates a Virtual Private Network, protecting its users' privacy and security. Cloak IPSec and OpenVPN security protocols, with custom-generated 2048-bit DH group and 1536-bit DH group encryption.
 
-## CrypticVPN
-
-## CryptoHippie
-
-## CryptoStorm
-
-
 ## CyberGhost
 CyberGhost is a software company that provides a virtual private network (VPN) for web browsing. It offer users online privacy and internet traffic security. The company is headquartered in Bucharest, Romania. In 2017, it was acquired by Kape Technologies PLC.
-
-## DathoVPN
-
-## DefenceVPN
-
-## Disconnect.me
-
-## DooVPN
-
-## DotVPN
-
-## Doublehop
 
 ## EarthVPN
 EarthVPN allows users to connect via 54 different countries and 190 unique IP locations. It's a cheap VPN compared to most others in this list.
 
-## Encrypt.me
-
-## EtherealVPN
-
 ## ExpressVPN
 ExpressVPN is a virtual private network service offered by the British Virgin Islands-registered company Express VPN International Ltd. The software is marketed as a privacy and security tool that encrypts users’ web traffic and masks their IP addresses.
-
-## Faceless.ME
-
-## FinchVPN
-
-## FlowVPN
-
-## FlyVPN
-
-## FoxyProxy
-
-## Freedom-IP
-
-## Freedome
-
-## FrootVPN
-
-## FrostVPN
-
-## GetFlix
-
-## GhostPath
-
-
-## GooseVPN
-
-## GoTrusted
-
-## GoVPN
-
-## Hide My IP
-
-## Hide.me
-
-## HideALLIP
-
-## HideIPVON
 
 ## HideMyAss
 HMA VPN is a virtual private network provider founded in 2005 in the United Kingdom. It has been a subsidiary of the Czech cybersecurity company Avast since 2016.
 
-## Hola!VPN
-
 ## Hotspot Shield
 Hotspot Shield is a public virtual private network service, operated by AnchorFree, Inc. By establishing an encrypted connection with the Hotspot Shield servers, the service protects its users' Internet traffic from eavesdropping.
-
-## HotVPN
-
-## IBVPN
-
-## Identity Cloaker
-
-## In-Disguise
-
-## Incognito VPN
-
-## Insorg
-
-## Integrity.st
-
-## IntelliVPN
-
-## Internetz.me
-
-## IntroVPN
-
-## IPinator
-
-## IPredator
 
 ## IPVanish
 IPVanish VPN is a commercial VPN service based in the United States. While providing end-to-end network encryption, IPVanish allows its users to appear in one of more than 75 different loctions.
 
-## Ironsocket
-
-## Ivacy
-
-## IVPN
-
 ## KeepSolid VPN Unlimited
 KeepSolid VPN Unlimited is a fast, affordable and reliable VPN service. 
-
-## Kepard									
-
-## LeVPN									
-
-## LibertyShield									
-
-## LibertyVPN									
-
-## LimeVPN									
-
-## LiquidVPN									
 
 ## Mullvad									
 Mullvad is a personal virtual private network launched in Sweden in 2008. It accepts anonymous bitcoin payments, is based on OpenVPN client and was an early adopter of the Wireguard protocol.
 
-## My Expat Network									
-
-## My Private Network									
-
-## MyIP.io									
-
-## MyVPN.Pro									
-
-## NetShade									
-
-## Newshosting									
-
-## NEXTGenVPN									
-
-## NolimitVPN									
-
 ## NordVPN									
 NordVPN is a personal virtual private network service provider. It has desktop applications for Windows, macOS, and Linux, mobile apps for Android and iOS, as well as an application for Android TV. Manual setup is available for wireless routers, NAS devices and other platforms.
-
-## Norton WiFi Privacy									
-
-## NVPN									
-
-## OctaneVPN									
-
-## OneVPN									
-
-## Opera (Browser) VPN									
-
-## OverPlay									
-
-## OVPN.com									
-
-## oVPN.to
 
 ## Perfect Privacy									
 Perfect Privacy is a Switzerland-based VPN with a laundry list of advanced privacy features. Founded back in 2008, they've secured their spot amongst the most robust, high-end Virtual Private Networks on the market right now.
 
 ## Private Internet Access									
 Private Internet Access is a personal virtual private network service. It supports multiple VPN technologies such as PPTP, L2TP/IPsec, SOCKS5 and OpenVPN. In 2018, former Mt. Gox CEO Mark Karpelès was named chief technology officer of PIA's parent company, London Trust Media.
-
-## PrivatePackets.io									
-
-## PrivateTunnel									
 
 ## PrivateVPN									
 PrivateVPN is an affordable service with an excellent reputation. It manages a compact network of 150+ self-owned servers in 59 countries at more than 80 different locations.
@@ -251,154 +93,23 @@ This Sweden-based provider is committed to ensuring its users’ privacy and sec
 ## ProtonVPN									
 ProtonVPN is a virtual private network service provider operated by the Swiss company ProtonVPN AG. The company is a subsidiary of Proton Technologies AG, the company behind the email service ProtonMail.
 
-## ProXPN									
-
-## Proxy.sh									
-
-## PRQ									
-
 ## PureVPN									
 PureVPN is a commercial virtual private network service owned by GZ Systems Ltd. Founded in 2007, the company is based in Hong Kong. The service has been criticized for having inconsistent speeds, being unable to access Netflix videos, and having usability problems.
-
-## RA4W VPN									
-
-## RogueVPN									
-
-## RootVPN									
 
 ## SaferVPN									
 SaferVPN offers several protocols such as IKEv, PPTP, L2TP, and OpenVPN. While PPTP is great for streaming videos, OpenVPN is good if you need the best security. The prices of SaferVPN are on the cheap side. A two-year package is super cheap, and they also run discounts from time to time.
 
 ## SecureVPN.com									
-SecureVPN claims to provide a VPN service that helps you surf the web anonymously, unblock websites and VoIP services, and secure any Wi-Fi hotspot. However,  we cannot guarantee that this VPN is legitimate.
-
-## SecureVPN.to									
-
-## SecurityKISS									
-
-## Seed4.Me									
-
-## Seedboxes.cc									
-
-## ShadeYou									
-
-## SlickVPN									
-
-## Smart DNS Proxy									
-
-## SmartVPN									
-
-## Speedify									
-
-## Spotflux									
-
-## Steganos									
-
-## StrongVPN									
-
-## SumRando									
-
-## SunVPN									
-
-## SuperVPN									
-
-## SurfEasy									
+SecureVPN claims to provide a VPN service that helps you surf the web anonymously, unblock websites and VoIP services, and secure any Wi-Fi hotspot. However,  we cannot guarantee that this VPN is legitimate.								
 
 ## Surfshark									
 Surfshark is a relatively new VPN service, but it’s already making a name for itself. As a new provider, Surfshark offers a very rare bonus – unlimited simultaneous connections. If you want to protect your whole family (or use lots of devices yourself), you won’t find a better deal.
-
-## SwitchVPN									
-
-## TGVPN									
-
-## TigerVPN									
-
-## Torguard									
-
-## TorrentPrivacy									
-
-## TorVPN									
-
-## TotalVPN									
-
-## Traceless.me									
 
 ## Trust.Zone									
 Trust.Zone has pretty much everything most VPN users are looking for: A helpful website, user-friendly apps, and the ability to bypass Netflix geo-blocks.
 
 ## TunnelBear									
 TunnelBear is a public virtual private network service based in Toronto, Canada. The company was founded by Daniel Kaldor and Ryan Dochuk in 2011. In March 2018, TunnelBear was acquired by McAfee.
-
-## Tunnelr									
-
-## TVWhenAway									
-
-## Unblock VPN									
-
-## Unblock-Us									
-
-## Unlocator									
-
-## UnoTelly									
-
-## Unseen Online									
-
-## Unspyable									
-
-## VanishedVPN									
-
-## VikingVPN									
-
-## VIP72									
-
-
-## Virtual Shield									
-
-
-## VPN Gate									
-
-
-## VPN Land									
-
-
-## VPN Master									
-
-
-## VPN Shield									
-
-
-## VPN.ac									
-
-
-## VPN.Asia									
-
-
-## VPN.cc									
-
-
-## VPN.ht									
-
-
-## VPN.sh									
-
-
-## VPN4All									
-
-
-## VPNArea									
-
-
-## VPNAUS
-
-
-## VPNBaron
-
-
-## VPNJack
-
-
-## VPNMe
-
 
 ## VPNSecure
 VPNSecure has been around since 2010. It allows you to connect unlimited devices and access any content you're looking for. VPNSecure is affordable and easy to use.
