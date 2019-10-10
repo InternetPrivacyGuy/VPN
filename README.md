@@ -162,6 +162,6 @@ ZorroVPN is a Belize-based VPN service that is focused on privacy and advanced o
 ZPN offers free and paid versions for online identity protection. It is based on OpenVPN, offers direct access to the fastest VPN network in the world, and allows unlimited server switching.
 
 # Resources
-(Detailed VPN Comparison - That One Privacy Site)[https://thatoneprivacysite.net/#detailed-vpn-comparison]
-(The Best VPNs On The Internet - Guide for 2019 - Internet Privacy Guy)[https://internetprivacyguy.com/best-vpn/]
-(The Best VPNs for Privacy in 2019)[https://choosetoencrypt.com/privacy/the-best-vpns-for-privacy-in-2019/]
+[Detailed VPN Comparison - That One Privacy Site](https://thatoneprivacysite.net/#detailed-vpn-comparison)
+[The Best VPNs On The Internet - Guide for 2019 - Internet Privacy Guy](https://internetprivacyguy.com/best-vpn/)
+[The Best VPNs for Privacy in 2019](https://choosetoencrypt.com/privacy/the-best-vpns-for-privacy-in-2019/)
